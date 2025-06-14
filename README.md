@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm German Granados
 
-<!--
-**dev-german/dev-german** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack software developer from Peru 🇵🇪, passionate about backend architecture, clean code and automation.
 
-Here are some ideas to get you started:
+- 💼 Working at SUNAT on national-scale systems (Java, Spring Boot, Docker, Kubernetes)
+- 🌎 Former developer at UEAT 🇨🇦, building online ordering and loyalty systems
+- 🎓 Master's student in Artificial Intelligence – UNI
+- 🛠️ Currently exploring AI integrations and scalable backend systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+Java | Spring Boot | Docker | Kubernetes | GitLab CI/CD | Angular | React | C# | SQL/NoSQL
+
+## 📫 Let's connect!
+[LinkedIn](https://linkedin.com/in/germangranados) • [Resume](https://github.com/tuusuario/tuusuario/blob/main/German_Granados_CV_2025.pdf)
+
