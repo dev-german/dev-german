@@ -12,4 +12,4 @@ Java | Spring Boot | Docker | Kubernetes | GitLab CI/CD | Angular | React | C# |
 
 ## 📫 Let's connect!
 * [LinkedIn](https://linkedin.com/in/germangranados)
-* [Resume](https://github.com/dev-german/blob/main/German_Granados_CV_2025.pdf)
+* [Resume](https://github.com/dev-german/dev-german/blob/main/German_Granados_CV_2025.pdf)
