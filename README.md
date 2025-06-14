@@ -11,5 +11,6 @@ I'm a fullstack software developer from Peru 🇵🇪, passionate about backend 
 Java | Spring Boot | Docker | Kubernetes | GitLab CI/CD | Angular | React | C# | SQL/NoSQL
 
 ## 📫 Let's connect!
-[LinkedIn](https://linkedin.com/in/germangranados) • [Resume](https://github.com/tuusuario/tuusuario/blob/main/German_Granados_CV_2025.pdf)
+* [LinkedIn](https://linkedin.com/in/germangranados)
+* [Resume](https://github.com/tuusuario/tuusuario/blob/main/German_Granados_CV_2025.pdf)
 
